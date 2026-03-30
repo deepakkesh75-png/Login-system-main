@@ -121,7 +121,7 @@ AJAX Login Request
 Full Stack Integration
 
 👨‍💻 Author
-Kapil Charan
+DEEPAK J
 B.Tech CSE (2027)
 
 📌 Future Improvements
